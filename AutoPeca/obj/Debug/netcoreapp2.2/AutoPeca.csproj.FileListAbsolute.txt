@@ -1,0 +1,11 @@
+C:\Projeto\AutoPeca\AutoPeca\bin\Debug\netcoreapp2.2\AutoPeca.deps.json
+C:\Projeto\AutoPeca\AutoPeca\bin\Debug\netcoreapp2.2\AutoPeca.runtimeconfig.json
+C:\Projeto\AutoPeca\AutoPeca\bin\Debug\netcoreapp2.2\AutoPeca.runtimeconfig.dev.json
+C:\Projeto\AutoPeca\AutoPeca\bin\Debug\netcoreapp2.2\AutoPeca.dll
+C:\Projeto\AutoPeca\AutoPeca\bin\Debug\netcoreapp2.2\AutoPeca.pdb
+C:\Projeto\AutoPeca\AutoPeca\obj\Debug\netcoreapp2.2\AutoPeca.csprojAssemblyReference.cache
+C:\Projeto\AutoPeca\AutoPeca\obj\Debug\netcoreapp2.2\AutoPeca.csproj.CoreCompileInputs.cache
+C:\Projeto\AutoPeca\AutoPeca\obj\Debug\netcoreapp2.2\AutoPeca.AssemblyInfoInputs.cache
+C:\Projeto\AutoPeca\AutoPeca\obj\Debug\netcoreapp2.2\AutoPeca.AssemblyInfo.cs
+C:\Projeto\AutoPeca\AutoPeca\obj\Debug\netcoreapp2.2\AutoPeca.dll
+C:\Projeto\AutoPeca\AutoPeca\obj\Debug\netcoreapp2.2\AutoPeca.pdb
